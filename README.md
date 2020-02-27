@@ -29,4 +29,4 @@ Just clone this repo and remove `.git` folder.
 
 # License
 
-MIT © Dinesh Pandiyan
+MIT © X5engine
